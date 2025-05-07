@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "Hash": "6XuU6POmKsYbd13cKUOU9pSNqqIebNtPful6KRvppsI=",
+  "Source": "BookHub",
+  "BasePath": "_content/BookHub",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BookHub\\wwwroot",
+      "Source": "BookHub",
+      "ContentRoot": "D:\\Academic\\AD Project\\Final_BookHub\\BookHub\\wwwroot\\",
+      "BasePath": "_content/BookHub",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [],
+  "Endpoints": []
+}
